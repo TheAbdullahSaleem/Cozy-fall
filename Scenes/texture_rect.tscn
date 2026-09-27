@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://drwkewsxvjnh8"]
+
+[ext_resource type="Texture2D" uid="uid://c87uerd7vkla4" path="res://Assets/images (8).jpg" id="1_gkgfv"]
+
+[node name="TextureRect" type="TextureRect" unique_id=851895297]
+offset_right = 1149.0
+offset_bottom = 649.0
+texture = ExtResource("1_gkgfv")
